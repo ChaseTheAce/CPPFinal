@@ -1,0 +1,3 @@
+C:\Users\Chase\Documents\Unreal Projects\ChaseCPPFinal\Source\ChaseCPPFinal\ChaseCPPFinal.Build.cs
+C:\Users\Chase\Documents\Unreal Projects\ChaseCPPFinal\Source\ChaseCPPFinal.Target.cs
+C:\Users\Chase\Documents\Unreal Projects\ChaseCPPFinal\Source\ChaseCPPFinalEditor.Target.cs
